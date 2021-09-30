@@ -39,7 +39,7 @@ The data retrieved from Kaggle dataset. The data consist of 19158 rows x 14 cols
 7. Model Deployment
 
 ## Result
-Using 5 models, this are the results of the evaluation of the matrix:
+Using 5 models, here are the results of the evaluation of the matrix:
 
 | Model               | Recall | Accuracy | ROC/AUC |
 |---------------------|--------|----------|---------|
