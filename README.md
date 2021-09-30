@@ -51,9 +51,9 @@ Using 5 models, this are the results of the evaluation of the matrix:
 
 ![City Development Index](cdi.png)
 ![Training Hours](th.png)
-![Random Forest](random forest.png)
-![ROC Curve](roc curve.png)
-![Web App](web app.png)
+![Random Forest](randomforest.png)
+![ROC Curve](roc_curve.png)
+![Web App](webapp.png)
 
 Please visit my tableau public profile here to see the visualization:
 
