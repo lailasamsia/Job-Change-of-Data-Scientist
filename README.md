@@ -55,6 +55,6 @@ Using 5 models, this are the results of the evaluation of the matrix:
 ![ROC Curve](roc_curve.png)
 ![Web App](webapp.png)
 
-Please visit my tableau public profile here to see the visualization:
+Please click the icon below to visit my tableau public profile to view the visualization:
 
 [![Tableau Public](https://www.blastanalytics.com/wp-content/uploads/tableau-icon-home.png)](https://public.tableau.com/app/profile/laila/viz/JobChange_16266730438960/Dashboard1)
