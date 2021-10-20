@@ -49,11 +49,11 @@ Using 5 models, here are the results of the evaluation of the matrix:
 | SVM                 | 0.86   | 0.84     | 0.84    |
 | TPOT                | 0.85   | 0.84     | 0.84    |
 
-![City Development Index](cdi.png)
-![Training Hours](th.png)
-![Random Forest](randomforest.png)
+![City Development Index](cdi.PNG)
+![Training Hours](th.PNG)
+![Random Forest](randomforest.PNG)
 ![ROC Curve](roc_curve.png)
-![Web App](webapp.png)
+![Web App](webapp.PNG)
 
 Please click the icon below to visit my tableau public profile to view the visualization:
 
